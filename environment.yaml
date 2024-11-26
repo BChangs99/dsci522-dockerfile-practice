@@ -1,0 +1,7 @@
+name: docker-practice
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy=2.1.3
+prefix: /Users/brianchang/miniforge3/envs/docker-practice
